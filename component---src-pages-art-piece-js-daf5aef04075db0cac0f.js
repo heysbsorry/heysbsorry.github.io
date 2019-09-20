@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{284:function(e,n,t){"use strict";t.r(n);var a=t(0),c=t.n(a),o=t(281),r=t(280);n.default=function(){return c.a.createElement(o.a,null,c.a.createElement(r.a,{title:"Home"}))}}}]);
+//# sourceMappingURL=component---src-pages-art-piece-js-daf5aef04075db0cac0f.js.map
